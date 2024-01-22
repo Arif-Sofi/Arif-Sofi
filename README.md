@@ -7,7 +7,7 @@ Software Engineering Student
 I am currently learning Software Engineering in Universiti Teknologi Malaysia Kuala Lumpur (UTMKL)
 
 * 🌍  I'm based in Malaysia
-* 🖥️  <-----See my portfolio at [ArifSofi-ePortfolio](http://arif-sofi.github.io/)----->
+* 🖥️  <-----See my portfolio at [ArifSofi-ePortfolio](http://Arif-Sofi.github.io/)----->
 * ✉️  You can contact me at [muhammad.arif.sofi@gmail.com](mailto:muhammad.arif.sofi@gmail.com)
 * 🧠  I'm learning C++ Programming Language
 * 🤝  I'm open to collaborating on Projects that I have an Interest in.
