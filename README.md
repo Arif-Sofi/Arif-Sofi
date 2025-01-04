@@ -1,16 +1,16 @@
-Hi 👋 My name is Arif Sofi
+こんにちは！ 👋 Arif Sofiと申します。
 ==========================
 
-Software Engineering Student
+ソフトウェア工学の学生です。
 ----------------------------
 
-I am currently learning Software Engineering in Universiti Teknologi Malaysia Kuala Lumpur (UTMKL)
+今Universiti Teknologi Malaysia Kuala Lumpur (UTMKL)もとへMJIITにソフト工学を勉強しています。
 
-* 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [ArifSofi-ePortfolio](http://arif-sofi.github.io/)
-* ✉️  You can contact me at [muhammad.arif.sofi@gmail.com](mailto:muhammad.arif.sofi@gmail.com)
-* 🧠  I'm learning C++ Programming Language
-* 🤝  I'm open to collaborating on Projects that I have an Interest in.
+* 🌍  マレーシア出身です。
+* 🖥️  ポートフォリオはこちらへ[ArifSofi-ePortfolio](http://arif-sofi.github.io/)
+* ✉️  メールでのお問い合わせはこちらへ [muhammad.arif.sofi@gmail.com](mailto:muhammad.arif.sofi@gmail.com)
+* 🧠  C++ Programming 言語を学習しています。
+* 🤝  面白いプロジェクトがあれば是非コラボさせていただきます。
 
 <a href="https://www.github.com/Arif-Sofi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arif-Sofi?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
